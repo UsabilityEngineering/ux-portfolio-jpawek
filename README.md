@@ -1,6 +1,6 @@
 # UX Portfolio
 
-I'm Joseph Pawek, an undergrad student of computer science at Chico State. I'm in the spring semester of my Junior year and hope to graduate with my bachelors next spring. This repository is for my CSCI431W Usability Engineering class.
+I'm Joseph Pawek, an undergrad student of computer science at Chico State. This page will contain information pertaining to my Usability Engineering class including my team's project and journal entries regarding my experience with UX out in the world.
 
 ## UX Team Project
 
