@@ -7,4 +7,4 @@ If you are unfamiliar with Tesla's interior design style, the front dash of the 
 
 ![Model 3 Dashboard](assets/2021_tesla_model_3_dashboard.jpg)
 
-Source: USNews
+Notice that there is a complete lack of physical buttons on the dashboard. In fact, it is so minimalist that even the A/C vents are tucked away and hidden, unable to be adjusted physically.
