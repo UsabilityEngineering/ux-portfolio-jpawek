@@ -1,6 +1,7 @@
 [ux-portfolio-jpawek](https://usabilityengineering.github.io/ux-portfolio-jpawek/)
 # The Questionable UX of Tesla
-By Joseph Pawek 3/10/2023
+By Joseph Pawek, 3/10/2023
+---
 
 After landing his job at Google my brother's first big purchase was a Tesla Model 3 Performance. It has all of the gas saving benefits of an electric vehicle, capable safety equipment, a blistering 0-60 speed, and, importantly for this journal entry, heaps and heaps of intricate features in a minimalist design.
 
