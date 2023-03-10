@@ -9,7 +9,7 @@ If you are unfamiliar with Tesla's interior design style, the front dash of the 
 
 ![Model 3 Dashboard](assets/2021_tesla_model_3_dashboard.jpg)
 
-Notice that there is a complete lack of analog buttons on the dashboard. In fact, it is so minimalist that even the A/C vents are tucked away and hidden, making them impossible to adjust physically.
+Notice that there is a complete lack of analog buttons on the dashboard. In fact, it is so minimalist that even the A/C vents are tucked away and hidden, making them impossible to adjust physically. As such, any **conventions** that a user is accustomed to out of other vehicles do not apply.  
 
 The control features that would typically be found in the cabin are instead integrated in the central touchscreen which acts as a display for the speedometer, navigation, radio and music controls, climate control settings, current drive mode, autopilot status, and quite a bit more. There are so many features that there are a total of 14 pages in the Model 3 owner's manual that focus purely on controlling the touchscreen.
 
