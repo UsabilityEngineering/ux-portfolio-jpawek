@@ -16,3 +16,5 @@ The control features that would typically be found in the cabin are instead inte
 Specifically I'd like to focus on my experience with managing the climate control settings. The homepage of the central screen provides a simple temperature display. This can be changed by single degrees or if you tap and hold the number you can use a slider for greater temperature changes. You can see it along with buttons to toggle defrosters and seat heaters at the bottom of this image:
 
 ![Model 3 Homepage](assets/model-3-ui-2.jpg)
+
+This works fine when you want to leave the climate control system on auto and let the car control the ambient temperature. It's an easily **learnable** and **effective** control, it does its job well with a straight forward control scheme that can quickly be understood.
