@@ -27,6 +27,6 @@ Fan speed sits at the top of the screen with a control slider and the A/C toggle
 
 In summary, in order to max out the cold A/C and point the vents in my direction I had to tap and hold the temperature setting, set the slider to the minimum, tap the climate control icon, navigate to the fan speed and max it out, toggle the A/C, figure out how to adjust the vent direction, and then shift the airflow with its strange control mapping. All of this was done while sitting in the passenger seat with the vehicle stationary. I haven't had to adjust the A/C while I've driven the car, but I'd imagine that would make the process at least twice as difficult, not to mention pretty unsafe.
 
-For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, turn the fan dial to max speed, toggle the A/C button, and then point the vents at myself, all of which is a **conventional** and well labeled process that is easily performed.
+For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, turn the fan dial to max speed, toggle the A/C button, and then point the vents at myself, all of which is a **conventional** and well labeled process that is easily performed. Here you can see the comparitive simplicity of the controls:
 
 ![MR2 Climate Control](assets/mr2_climate_control-1.jpg)
