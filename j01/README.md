@@ -17,7 +17,7 @@ Specifically I'd like to focus on my experience with managing the climate contro
 
 ![Model 3 Homepage](assets/model-3-ui-2.jpg)
 
-This works fine when you want to leave the climate control system on auto and let the car control the ambient temperature. It's an easily **learnable** and **effective** control, it does its job well with a straight forward control scheme that can quickly be understood.
+This works fine when you want to leave the climate control system on auto and let the car control the ambient temperature. It's an easily **learnable** and **effective** control, it does its job well with a straightforward control scheme that can quickly be understood.
 
 However, once you want to take the climate control out of auto and make specific manual adjustments it gets a bit more complicated. For example, one time after going on a long hike I wanted to max out the A/C and point the vents towards myself. In order to adjust the climate control system manually you first have to tap the fan icon on the homepage, something that isn't immediately obvious. Then you are met with the climate control screen with all of its settings. Here is a diagram for the screen out of the Model 3 owner's manual:
 
@@ -27,7 +27,7 @@ Fan speed sits at the top of the screen with a control slider and the A/C toggle
 
 In order to accomplish my goal I had to, in total, tap and hold the temperature setting, set the slider to the minimum, tap the climate control icon, navigate to the fan speed and max it out, toggle the A/C, figure out how to adjust the vent direction, and then shift the airflow with its strange control mapping. All of this was done while sitting in the passenger seat with the vehicle stationary. I haven't had to adjust the A/C while I've driven the car, but I'd imagine that would make the process at least twice as difficult, not to mention pretty unsafe.
 
-For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, turn the fan speed dial to max, toggle the A/C button, and then point the vents at myself, all of which is a **conventional** and well labeled process that is easily performed. Here you can see the comparitive simplicity of the controls:
+For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, turn the fan speed dial to max, toggle the A/C button, and then point the vents at myself, all of which is a **conventional** and well labeled process that is easily performed. Here you can see the comparative simplicity of the controls:
 
 ![MR2 Climate Control](assets/mr2_climate_control-1.jpg)
 
