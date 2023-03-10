@@ -9,4 +9,4 @@ If you are unfamiliar with Tesla's interior design style, the front dash of the 
 
 Notice that there is a complete lack of analog buttons on the dashboard. In fact, it is so minimalist that even the A/C vents are tucked away and hidden, making them impossible to adjust physically.
 
-The control features that would typically be found in the cabin are instead integrated in the central screen which acts as a display for the speedometer, navigation, radio and music controls, A/C settings, drive mode and autopilot status, and quite a bit more.
+The control features that would typically be found in the cabin are instead integrated in the central screen which acts as a display for the speedometer, navigation, radio and music controls, A/C settings, current drive mode, autopilot status, and quite a bit more.
