@@ -3,7 +3,7 @@
 By Joseph Pawek, 3/10/2023
 ---
 
-After landing his job at Google my brother's first big purchase was a Tesla Model 3 Performance. It has all of the gas saving benefits of an electric vehicle, capable safety equipment, a blisteringly fast 0-60 speed, and, importantly for this journal entry, heaps and heaps of intricate features in a minimalist design.
+After landing his job at Google my brother's first big purchase was a 2021 Tesla Model 3 Performance. It has all of the gas saving benefits of an electric vehicle, capable safety equipment, a blisteringly fast 0-60 speed, and, importantly for this journal entry, heaps and heaps of intricate features in a minimalist design.
 
 If you are unfamiliar with Tesla's interior design style, the front dash of the Model 3 looks like this:
 
