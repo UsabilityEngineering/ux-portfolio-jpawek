@@ -27,4 +27,4 @@ Fan speed sits at the top of the screen with a control slider which is simple en
 
 In summary, in order to max out the cold A/C and point the vents in my direction I had to tap and hold the temperature setting, set the slider to the minimum, tap the climate control icon, navigate to the fan speed and max it out, figure out how to adjust the vent direction, and then shift the airflow with its strange control mapping. For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, turn the fan dial to max speed and then point the vents at myself.
 
-![MR2 Climate Control](assets/mr2_climate_control-2.jpg)
+![MR2 Climate Control](assets/mr2_climate_control-1.jpg)
