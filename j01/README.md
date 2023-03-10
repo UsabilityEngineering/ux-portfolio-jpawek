@@ -23,4 +23,4 @@ However, once you want to take the climate control out of auto and make specific
 
 ![Model X Climate Control](assets/climate_control_guide.png)
 
-Fan speed sits at the top of the screen with a control slider which is simple enough. My main problem was with directing the airflow of the vents. In order to change this you have to tap on the animated air currents in the center of the screen, labeled 10 in the diagram, 
+Fan speed sits at the top of the screen with a control slider which is simple enough. My main problem was with directing the airflow of the vents. In order to change this you have to tap on the animated air currents in the center of the screen, labeled 10 in the diagram, and then hold and drag across the screen to shift the direction of the airflow. This is strange for a number of reasons, primarily because the **mapping** of the action is off. That is to say that the action of tapping and dragging on a screen positioned to your left or right in order to shift the airflow from a vent located in front of you creates a disconnect from the controls and the physical action that they perform. 
