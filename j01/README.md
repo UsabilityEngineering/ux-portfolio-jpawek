@@ -19,6 +19,6 @@ Specifically I'd like to focus on my experience with managing the climate contro
 
 This works fine when you want to leave the climate control system on auto and let the car control the ambient temperature. It's an easily **learnable** and **effective** control, it does its job well with a straight forward control scheme that can quickly be understood.
 
-However, once you want to take the climate control out of auto and make specific manual adjustments it gets quite a bit more complicated. For example, one time after going on a long hike I wanted to max out the A/C and point the vents towards myself. In order to adjust the climate control system manually you first have to tap the fan icon on the homepage. You are then met with the climate control screen with all of its settings. Here is a diagram identical to the Model 3's climate control screen out of the Model X owner's manual:
+However, once you want to take the climate control out of auto and make specific manual adjustments it gets quite a bit more complicated. For example, one time after going on a long hike I wanted to max out the A/C and point the vents towards myself. In order to adjust the climate control system manually you first have to tap the fan icon on the homepage, something that isn't particularly immediately obvious. Then you are met with the climate control screen with all of its settings. Here is a diagram identical to the Model 3's climate control screen out of the Model X owner's manual:
 
 ![Model X Climate Control](assets/climate_control_guide.png)
