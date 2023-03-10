@@ -1,1 +1,2 @@
-# First Journal Entry...
+# The Questionable UX of Tesla
+
