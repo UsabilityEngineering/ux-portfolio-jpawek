@@ -21,6 +21,6 @@ This works fine when you want to leave the climate control system on auto and le
 
 However, once you want to take the climate control out of auto and make specific manual adjustments it gets a bit more complicated. For example, one time after going on a long hike I wanted to max out the A/C and point the vents towards myself. In order to adjust the climate control system manually you first have to tap the fan icon on the homepage, something that isn't immediately obvious. Then you are met with the climate control screen with all of its settings. Here is a diagram for the screen out of the Model 3 owner's manual:
 
-![Model X Climate Control](assets/climate_control_guide.png)
+![Model X Climate Control](assets/GUID-52603571-37D0-48A9-9B49-49C94C3EB05D-online-en-US.png)
 
 Fan speed sits at the top of the screen with a control slider which is simple enough. My main problem was with directing the airflow of the vents. In order to change this you have to tap on the animated air currents in the center of the screen, labeled 10 in the diagram, and then hold and drag across the screen to shift the direction of the airflow. This is strange for a number of reasons, primarily because the **mapping** of the action is off. That is to say that the action of tapping and dragging on a screen positioned to your left or right in order to shift the airflow from a vent located directly in front of you creates a disconnect from the controls and the physical action that they perform. 
