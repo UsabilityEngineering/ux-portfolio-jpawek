@@ -13,4 +13,6 @@ Notice that there is a complete lack of analog buttons on the dashboard. In fact
 
 The control features that would typically be found in the cabin are instead integrated in the central touchscreen which acts as a display for the speedometer, navigation, radio and music controls, climate control settings, current drive mode, autopilot status, and quite a bit more. There are so many features that there are a total of 14 pages in the Model 3 owner's manual that focus purely on controlling the touchscreen.
 
-Specifically I'd like to focus on my experience with managing the climate control settings. 
+Specifically I'd like to focus on my experience with managing the climate control settings. The homepage of the central screen provides a simple temperature display. This can be changed by single degrees or if you tap and hold the number you can use a slider for greater temperature changes. You can see it along with buttons to toggle defrosters and seat heaters at the bottom of this image:
+
+![Model 3 Homepage](assets/model-3-ui-2.jpg)
