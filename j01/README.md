@@ -6,4 +6,5 @@ After landing his job at Google my brother's first big purchase was a Tesla Mode
 If you are unfamiliar with Tesla's interior design style, the front dash of the Model 3 looks like this:
 
 ![Model 3 Dashboard](assets/2021_tesla_model_3_dashboard.jpg)
+
 Source: USNews
