@@ -31,4 +31,4 @@ For comparison, in my 22 year old Toyota MR2 I would turn the A/C dial to cold, 
 
 ![MR2 Climate Control](assets/mr2_climate_control-1.jpg)
 
-I'm hopeful that auto manufactures don't follow in Tesla's footsteps in terms of minimalist design because it seems like it just over complicates things that should really be simple.
+I'm hopeful that auto manufactures don't follow in Tesla's footsteps in terms of minimalist design because it, ironically, seems like it over complicates user interactions that should really be simple.
