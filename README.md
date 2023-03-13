@@ -4,7 +4,7 @@ I'm Joseph Pawek, an undergrad student of computer science at Chico State. This 
 
 ## UX Team Project
 
-Coming soon.
+[Rent Review](https://usabilityengineering.github.io/RentReview/)
 
 ## UX Journal
 
